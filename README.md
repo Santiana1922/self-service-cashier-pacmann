@@ -22,7 +22,7 @@ Sistem kasir self-service adalah sistem untuk kebutuhan supemarket yang dirancan
 
 ### C. Flowchart
 
-<img src="img/flowchart.png" width="1000"/>
+<img src="img/flowchart.png" width="700"/>
 
 ### D. Function dan atribut
 
